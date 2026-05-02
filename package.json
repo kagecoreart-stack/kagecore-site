@@ -17,5 +17,13 @@
     "tailwindcss": "latest",
     "lucide-react": "latest",
     "framer-motion": "latest"
+  },
+  "devDependencies": {
+    "typescript": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest"
   }
 }
